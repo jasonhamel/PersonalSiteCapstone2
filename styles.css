@@ -1,0 +1,35 @@
+body {
+  background-color: aqua;
+}
+
+h1 {
+  font-family: "Libre Baskerville", serif;
+  font-style: italic;
+  font-size: 40px;
+}
+
+img {
+  width: 100%;
+  border-radius: 10%;
+}
+#hero-section {
+  justify-content: center;
+  align-items: center;
+}
+
+#head-section {
+  background-color: #00cccc;
+}
+
+#name {
+  font-family: "Libre Baskerville", serif;
+  font-style: italic;
+}
+
+.description {
+  font-size: 20px;
+}
+.btn-light {
+  background-color: lightgreen;
+  font-size: 18px;
+}
